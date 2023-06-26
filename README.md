@@ -24,3 +24,7 @@ Visit the url of frontend, insert urine strip image and get the results
 
 Hosted Frontend - [Click Here](https://frontend-nu-dusky.vercel.app/)
 
+
+
+Demo Link - https://github.com/Kunalp02/Alemeno_assignment/assets/95534553/4d1f9781-c255-4432-b10d-2e57809a832b
+
