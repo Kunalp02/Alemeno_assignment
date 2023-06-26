@@ -22,7 +22,5 @@ Open terminal and enter the commands.
 Visit the url of frontend, insert urine strip image and get the results
 
 
-```
 Hosted Frontend - [Click Here](https://frontend-nu-dusky.vercel.app/)
 
-```
