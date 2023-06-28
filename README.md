@@ -19,6 +19,9 @@ Open terminal and enter the commands.
 
 ```
 
+Tech Stack - React JS, Django, Django Rest Framework 
+
+
 Visit the url of frontend, insert urine strip image and get the results
 
 
